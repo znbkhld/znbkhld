@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @znbkhld
-- 👀 I’m interested in Digital Forensics
+- 👀 Interested in Digital Forensics
 
 <!---
 znbkhld/znbkhld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
